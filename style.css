@@ -1,0 +1,50 @@
+ body{
+   width: 900px;
+   margin: auto;
+    
+    
+}
+#div2{
+    float: right;
+    position: absolute;
+    top: 40px;
+    right: 310px;
+}
+.hhh{
+    border: 2px dotted gray
+}
+h1 {
+   
+   font-family: 'Lobster';
+   
+
+}
+header p{
+    font-size: 15px;
+    position: absolute;
+    top: 52px;
+    left: 360px;
+}
+ #img2{
+    width: 100%;
+}
+ #img1{
+    position: absolute;
+    right:30px;
+    top: 200px;
+}
+#van{
+    float: left;
+}
+#share{
+    
+    color: white;
+    background-color: rgb(105, 11, 11);
+    height: 40px;
+    width: 200px;
+    float: right;
+   position: absolute;
+   right: 310px;
+  
+   
+}
